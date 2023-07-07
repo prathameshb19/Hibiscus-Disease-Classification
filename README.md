@@ -1,4 +1,4 @@
-# Hibiscus-Disease-Classification
+# Hibiscus-Leaf-Disease-Classification
 Pest-infested plants and crops have an effect on the nation's agricultural output. Usually, farmers or experts maintain a constant eye on the plants to spot and recognise diseases. This process is typically expensive, time-consuming, and inaccurate. Looking for different signs or patches on the affected plant's leaves might help identify plant diseases. The objective of this project is to develop a disease classification model that is backed by classification of leaf images. We are using Convolution neural network (CNN) image processing to identify plant diseases!
 
 A convolutional neural network (CNN or convnet) is a subset of machine learning. It is one of the many different kinds of artificial neural networks that are applied to numerous applications and data types. Specifically used for image recognition and other tasks involving the processing of pixel data, CNNs are a type of network design for deep learning algorithms
