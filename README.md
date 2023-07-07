@@ -8,32 +8,32 @@ The user can simply upload photographs of the suspected leaves to the website, w
 
 Reults:
 
-<img width="600" height="100" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/9068472b-79c5-4dec-8a8a-9b98df5c9ef5">
+<img width="650"  alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/9068472b-79c5-4dec-8a8a-9b98df5c9ef5">
 
 UI of the Project
 
 
-<img width="600" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/10a3ec83-1139-4855-a1ae-e1bb6da49f87">
+<img width="650" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/10a3ec83-1139-4855-a1ae-e1bb6da49f87">
 
 Result for Healthy Leaf
 
 
-<img width="600" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/905cdfd6-a55d-408e-91e7-56a698c87aab">
+<img width="650" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/905cdfd6-a55d-408e-91e7-56a698c87aab">
 
 Result for Leaf spot
 
 
-<img width="600" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/6bd7e61f-81ec-42c7-b6e8-4c5b1f3052b8">
+<img width="650" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/6bd7e61f-81ec-42c7-b6e8-4c5b1f3052b8">
 
 Result for Wilted Leaf
 
 
-<img width="600" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/959372d1-5e30-444e-a0e7-78a8dc1401d3">
+<img width="650" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/959372d1-5e30-444e-a0e7-78a8dc1401d3">
 
 Result for Powdery Mildew
 
 
-<img width="600" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/d3febba0-25d2-41ff-a536-8a61efc6f49b">
+<img width="650" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/d3febba0-25d2-41ff-a536-8a61efc6f49b">
 
 Result for input other than leaves
 
