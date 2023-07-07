@@ -8,7 +8,7 @@ The user can simply upload photographs of the suspected leaves to the website, w
 
 Reults:
 
-<img width="600" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/9068472b-79c5-4dec-8a8a-9b98df5c9ef5">
+<img width="600" height="100" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/9068472b-79c5-4dec-8a8a-9b98df5c9ef5">
 
 UI of the Project
 
