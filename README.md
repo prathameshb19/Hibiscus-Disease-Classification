@@ -7,5 +7,6 @@ The project has the potential to be used by a variety of people, including farme
 The user can simply upload photographs of the suspected leaves to the website, which will then classify the disease based on the input images. With the use of a CNN model that was trained on a large amount of photographs of hibiscus plants leafs, this project intends to create a website that can correctly identify potato diseases. React Native will be used to build the website. Utilising FastAPI, the backend server will be created.
 
 Reults:
-<img width="416" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/9068472b-79c5-4dec-8a8a-9b98df5c9ef5">
+
+<img width="600" alt="image" src="https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/9068472b-79c5-4dec-8a8a-9b98df5c9ef5">
 
