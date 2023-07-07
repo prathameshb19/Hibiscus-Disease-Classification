@@ -1,2 +1,3 @@
 # Hibiscus-Disease-Classification
-Neural Networks Project
+Pest-infested plants and crops have an effect on the nation's agricultural output. Usually, farmers or experts maintain a constant eye on the plants to spot and recognise diseases. This process is typically expensive, time-consuming, and inaccurate. Looking for different signs or patches on the affected plant's leaves might help identify plant diseases. The objective of this project is to develop a disease classification model that is backed by classification of leaf images. We are using Convolution neural network (CNN) image processing to identify plant diseases![image](https://github.com/prathameshb19/Hibiscus-Disease-Classification/assets/103109871/9fbdb7b1-b9b8-4254-9291-d225e4191876)
+
